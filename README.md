@@ -42,7 +42,7 @@ Il modello finale basato su **XGBoost** ha ottenuto i seguenti risultati sul tes
 
 ## Struttura della Repository 
 ```text
-|--- data/                       #Contiene il file sample_cars.csv di esempio
+|--- data/                       #Contiene il file sample_data.csv di esempio
 |--- models/                     # Contiene i modello di training e il preprocessor
 |--- notebooks/                  # Jupyter Notebooks utilizzati per fase di analisi esplorativa
 |--- src/
