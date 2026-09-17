@@ -1,0 +1,4 @@
+Brand,Model,Price,Country,Kilometers,Gearbox,Year,Fuel,Power,Seller,Body_Type,Type,Drivetrain,Seats,Doors,Cylinders,Color,Upholstery
+Fiat,Freemont,5100.0,IT,225282,Automatic,2013,Diesel,170,Dealer,Van,Used,4WD,7,5,4,Black,Full leather
+Fiat,Panda,1995.0,NL,162076,Manual,2010,Gasoline,69,Dealer,Compact,Used,Front,4,5,4,Grey,Cloth
+Fiat,Panda,2995.0,NL,53914,Manual,2006,Gasoline,60,Dealer,Compact,Used,Front,4,5,4,Black,

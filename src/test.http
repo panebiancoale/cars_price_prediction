@@ -1,0 +1,22 @@
+POST http://localhost:8000/predict
+Content-Type: application/json
+
+{
+"data": [
+      {
+          "Brand": "Fiat",
+          "Model": "New Panda",
+          "Country": "IT",
+          "Kilometers": 10000,
+          "Gearbox": "Manual",
+          "Year": 2020,
+          "Fuel": "Gasoline",
+          "Power": 69,
+          "Seller": "Dealer",
+          "Drivetrain": "Front",
+          "Color": "Red"
+      }
+    ]
+  }
+
+
